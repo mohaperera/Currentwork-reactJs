@@ -8,4 +8,4 @@ React JS Redux Component i'm working on currently
 
 
 
- 
+ demo link   [on GitHub](https://mohaperera.github.io/Currentwork-reactJs/index.html) so let me know  what you think :) 
