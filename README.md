@@ -7,3 +7,4 @@ React JS Redux Component i'm working on currently
 
 
 
+ 
